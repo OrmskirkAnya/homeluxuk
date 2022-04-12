@@ -1,3 +1,3 @@
-# homeluxuk
-HomeLux UK Project
+# homeluxe uk
+HomeLuxe UK Project
 Anya Hodgkinson
