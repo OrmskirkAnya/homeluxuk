@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
-<title>Test</title>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<title>HomeLuxe - Where design meets affordable</title>
+
 <body>
 <h1>HomeLuxe</h1>
 <p>Here we go!</p>
